@@ -15,14 +15,14 @@ pass liquid collection through a HEPA filter
 
 collect output from HEPA filter
 
-and run electrosys from the HEPA filter output 
+and run electrosis from the HEPA filter output 
 
 
 then process that again through more HEPA filter
 
 and repeat this process again
 
-each output from electrosys and passing throgh a HEPA filter should make cleaner water when its collected up from the raw cathone and anone out process of the elctrolsys process into the collection for liquid
+each output from electrosis and passing throgh a HEPA filter should make cleaner water when its collected up from the raw cathone and anone out process of the elctrolsis process into the collection for liquid that will be liquid outputt
 
 
 
