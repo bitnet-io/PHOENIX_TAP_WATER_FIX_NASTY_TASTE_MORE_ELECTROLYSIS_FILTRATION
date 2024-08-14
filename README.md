@@ -2,7 +2,7 @@
 
 MUST BE MULTI STAGE FILTER AFTER GETTING WATER
 
-WASTE WATER -> electrolysis + filtration -> pre-gray water (repeat flitration + electrosys process -> like a loop process 
+WASTE WATER -> electrolysis + filtration -> pre-gray water (repeat flitration + electrosis process -> like a loop process 
 
 the tap water that comes out now goes into another process to refine it further
 
