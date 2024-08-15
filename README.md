@@ -28,4 +28,4 @@ each output from electrosis and passing throgh a HEPA filter should make cleaner
 
 
 
-pro
+probably repeat a few times to further clean the water
